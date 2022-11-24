@@ -157,4 +157,4 @@ Ejecuta dicho comando y haz una captura de pantalla. Explica brevemente la difer
 
 > *NOTA: No borrar el repositorio local. Lo volveremos a utilizar en la siguiente actividad.*
 
-**Subir a plataforma Moodle un documento PDF con las capturas de pantalla y explicaciones pertinentes.**
+**Subir a plataforma un documento PDF con las capturas de pantalla y explicaciones pertinentes.**
